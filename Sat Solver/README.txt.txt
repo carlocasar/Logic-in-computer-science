@@ -1,0 +1,1 @@
+satsolver.cpp is an algorithm to solve SAT problems. We also include some samples with a different number of variables. 
